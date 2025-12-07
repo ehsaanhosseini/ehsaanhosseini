@@ -1,4 +1,4 @@
-# Ehsaan Hosseini  
+# Ehsan Hosseini  
 Full-Stack Engineer & Technical SEO Specialist  
 Founder at HoccoTech — delivering scalable web applications, automation tools, and SEO-driven digital solutions.
 

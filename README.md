@@ -1,71 +1,66 @@
-# Ehsan Hosseini  
-Full-Stack Engineer & Technical SEO Specialist  
-Founder at HoccoTech — delivering scalable web applications, automation tools, and SEO-driven digital solutions.
+# 👋 Hi there, I'm Ehsan 
 
-I work at the intersection of engineering, product development, and search optimization.  
-My focus is on building fast, reliable, SEO-friendly systems with modern JavaScript technologies.
+### Full-Stack Engineer | SEO & AI-driven Growth Systems
 
 ---
 
-## About Me  
-- Full-stack developer specialized in modern web frameworks  
-- Technical SEO specialist with automation and data analysis experience  
-- Founder of HoccoTech, delivering web, mobile, and digital marketing services  
-- Interested in building SaaS tools, workflow automation, and AI-assisted platforms  
-- Focused on performance, system design, and clean architecture
+![](https://komarev.com/ghpvc/?username=ehsaanhosseini&color=fb4362)
 
 ---
 
-## Tech Stack  
-**Languages:** JavaScript, TypeScript  
-**Frontend:** React, Next.js, TailwindCSS  
-**Backend:** Node.js, Express.js  
-**Databases & ORM:** PostgreSQL, MongoDB, Prisma  
-**Infrastructure:** Docker, Git, GitHub Actions  
-**Hosting & Deployment:** Vercel, Netlify, Cloudflare  
-**Design:** Figma  
-## 🧠 Tech Stack
+### 🚀 When I build, I rely on
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## Featured Projects  
+### ⚙️ Projects & Systems I Build
 
-### BBauto — Vehicle Marketplace Platform  
-A scalable automotive listing platform built for regional markets.  
-**Stack:** Next.js, TailwindCSS, Node.js, PostgreSQL, Prisma  
-(Public repository coming soon)
-
-### HoccoTech Web Boilerplate  
-A production-ready starter template for client projects with  
-Next.js, TailwindCSS, SEO structure, modular components, and fast deployment setup.
-
-### SEO Automation Tools  
-Small utilities developed for SEO workflows, including:  
-- Keyword clustering scripts  
-- Schema and JSON-LD generators  
-- Content auditing tools  
-- Internal linking helpers  
-(Repositories will be added soon)
+<p>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-ff6b6b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Server_Architecture-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Systems-9C27B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/SEO_Architecture-FF9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation_Systems-607D8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scalable_SaaS-3F51B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile_App_(Flutter)-00BCD4?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
 ---
 
-## GitHub Statistics  
-![](https://github-readme-stats.vercel.app/api?username=ehsaanhosseini&theme=dark&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=ehsaanhosseini&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaanhosseini&theme=dark&hide_border=false&layout=compact)
+### 🧠 What I Build
+
+- Scalable web platforms (Next.js + Node.js)  
+- Marketplace & SaaS architectures (BBauto)  
+- Real-time data platforms & pricing engines (Talaa)  
+- Mobile applications (Flutter-based systems)  
+- SEO-driven architectures for high-traffic platforms  
+- Automation tools for content, indexing & growth  
 
 ---
 
-## Contact  
-LinkedIn: https://linkedin.com/in/ehsaanhosseini  
-Email: ceo@hoccotech.com  
+### 📊 GitHub Contributions Summary
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsaanhosseini&hide_border=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaanhosseini&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 https://hoccotech.com  
+- 💼 https://linkedin.com/in/ehsaanhosseini  

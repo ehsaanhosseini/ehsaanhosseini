@@ -57,15 +57,32 @@
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&hide_border=true&background=0D1117&ring=ABD202&fire=ABD202&currStreakLabel=ABD202&sideLabels=ABD202&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
     media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&hide_border=true&background=0D1117&ring=ABD202&fire=ABD202&currStreakLabel=ABD202&sideLabels=ABD202&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&theme=default&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&theme=default&hide_border=true"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&theme=default&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&theme=default&hide_border=true"
+    alt="GitHub contributions summary"
+  />
 </picture>
+
+<br />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ehsaanhosseini&hide_border=true&show_icons=true&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ehsaanhosseini&hide_border=true&show_icons=true&theme=default"
+  />
+
+
 
 
 ## Activity Graph
@@ -73,14 +90,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=0d1117&color=ffffff&title_color=ffffff&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=0d1117&color=ffffff&title_color=ffffff&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16&cache_seconds=0&v=2"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=ffffff&color=111827&title_color=111827&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=ffffff&color=111827&title_color=111827&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16&cache_seconds=0&v=2"
   />
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=ffffff&color=111827&title_color=111827&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=ffffff&color=111827&title_color=111827&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16&cache_seconds=0&v=2"
     height="300"
     alt="GitHub activity graph"
   />

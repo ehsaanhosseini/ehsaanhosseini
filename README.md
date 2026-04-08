@@ -52,11 +52,12 @@
 - SEO-driven architectures for high-traffic platforms
 - Automation tools for content, indexing & growth
 
-### GitHub Contributions Summary
+
+## Contributions Summary
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&theme=github-dark-blue&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&hide_border=true&background=0D1117&ring=ABD202&fire=ABD202&currStreakLabel=ABD202&sideLabels=ABD202&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -66,46 +67,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ehsaanhosseini&theme=default&hide_border=true" />
 </picture>
 
-<br />
+
+## Activity Graph
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ehsaanhosseini&hide_border=true&show_icons=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=0d1117&color=ffffff&title_color=ffffff&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ehsaanhosseini&hide_border=true&show_icons=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=ffffff&color=111827&title_color=111827&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsaanhosseini&hide_border=true&show_icons=true&theme=default" />
-</picture>
-
-<br />
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaanhosseini&layout=compact&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&bg_color=ffffff&color=111827&title_color=111827&line=22c55e&point=22c55e&area_color=22c55e&area=true&hide_border=true&radius=16"
+    height="300"
+    alt="GitHub activity graph"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaanhosseini&layout=compact&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaanhosseini&layout=compact&theme=default&hide_border=true" />
-</picture>
-
-## GitHub Activity Graph
-
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&radius=16&theme=github-dark&area=true&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&radius=16&theme=github-light&area=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanhosseini&radius=16&theme=github-light&area=true&hide_border=true" height="300" alt="activity-graph" />
 </picture>
 
 ## Contact Me

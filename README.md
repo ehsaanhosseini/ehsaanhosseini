@@ -24,6 +24,17 @@ My focus is on building fast, reliable, SEO-friendly systems with modern JavaScr
 **Infrastructure:** Docker, Git, GitHub Actions  
 **Hosting & Deployment:** Vercel, Netlify, Cloudflare  
 **Design:** Figma  
+## 🧠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 
 ---
 
